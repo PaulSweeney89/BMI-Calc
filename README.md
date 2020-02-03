@@ -1,6 +1,8 @@
 # BMI-Calc
-Calculation of body mass index (BMI)
-Week 2 Progaramming & Scripting Task
+
+#**Calculation of body mass index (BMI)**
+
+*Week 2 Progaramming & Scripting Task*
 
 Program Overview:
 - Input person's height in metres (m)
