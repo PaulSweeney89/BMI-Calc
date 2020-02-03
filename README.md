@@ -1,6 +1,6 @@
 # BMI-Calc
 
-#**Calculation of body mass index (BMI)**
+**Calculation of body mass index (BMI)**
 
 *Week 2 Progaramming & Scripting Task*
 
